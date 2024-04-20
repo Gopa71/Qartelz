@@ -1,0 +1,73 @@
+
+
+/* login page */
+
+/* .div_login{
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    margin-top: 200px;
+    margin-bottom: 200px;
+    width: 400px;
+    height: 400px;
+    
+  } */
+  /* Background styles */
+  /* .div_login1{
+    background: url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1124&q=100') fixed no-repeat ;
+    background-position: center ;
+  } */
+
+  /* home page */
+
+  /* .div_main{
+    background: rgb(31,81,82);
+    background: linear-gradient(9deg, rgba(31,81,82,1) 30%, rgba(0,0,0,1) 91%);
+    height: 100vh;
+  }
+  .hd_1{
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+  }
+  .d-flex{
+    display: inline;
+  }
+  .hd_2{
+    
+    color: rgb(212, 185, 10);
+    padding: 0 0;
+    padding-bottom: 90px;
+  } */
+  
+
+  .navbar-brand{
+    display: flex;
+    align-items: center;
+  }
+  .div_1{
+    margin-top: 80px;
+  }
+  .div_main4{
+    background-color: rgb(169, 255, 251);
+  }
+  .div_main5{
+    background-color: rgb(239, 147, 221);
+  }
+  .div_main6{
+    background-color: rgb(236, 219, 165);
+  }
+  .div_main7{
+    background-color: rgb(132, 255, 191);
+  }
+  .div_main7_1{
+    background-color: rgb(27, 209, 17);
+  }
+  .div_main8{
+    background-color: rgb(227, 150, 255);
+  }
+  .div_main9{
+    background-color: rgb(242, 255, 94);
+  }
+ 
